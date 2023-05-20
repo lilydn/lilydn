@@ -1,6 +1,10 @@
+Hello :) <br>
 🖥️ I'm a full-stack / front-end web developer. <br>
-💼 Currently working at Seraphic Security. <br>
+💼 Currently working for Seraphic Security. <br>
+💼 Previously work place - Enigma Securities. <br>
+📙 My main stack: React, Javascript, Typescript, Redux (RTK) <br>
 💡 Continiously learning and improving my skills. <br>
-👩‍💻 My work github profiles: [github.com/ldotan-makor](Enigma), [https://github.com/lilyd-seraphic](Seraphic) <br>
-🔹 LinkedIn: www.linkedin.com/in/lily-dotan-a1a746198 <br>
-📫 email: lilydotan1@gmail.com
+🚧 These days learning and practicing server-side rendering and server components. <br>
+👩‍💻 My work github profiles: [Enigma](https://github.com/ldotan-makor), [Seraphic](https://github.com/lilyd-seraphic) <br>
+🔹 [LinkedIn Profile](https://www.linkedin.com/in/lily-dotan-a1a746198) <br>
+📫 Email: lilydotan1@gmail.com
